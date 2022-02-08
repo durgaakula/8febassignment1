@@ -1,0 +1,19 @@
+#comparision operators
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+print(a>b)
+print(a<b)
+print(a<=b)
+print(a>=b)
+print(a==b)
+print(a!=b)
+
+enter a:6
+enter b:5
+True
+False
+False
+True
+False
+True
+> 

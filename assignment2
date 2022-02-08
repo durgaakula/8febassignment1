@@ -1,0 +1,7 @@
+#convert kilometeres into centimeteres
+KM=float(input('enter KM:'))
+CM=(KM*100000)
+print('converting KM into CM',CM)
+
+enter KM:500
+converting KM into CM 50000000.0
